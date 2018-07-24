@@ -12,4 +12,4 @@ A small entrance to the Draugr Crypt is located east of Winterhold.
 The mod adds three new spells:
 * Conjure Ice Wolf
 * Conjure Snowy Sabre Cat
-' Conjure Snow Bear
+* Conjure Snow Bear
