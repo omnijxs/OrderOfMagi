@@ -1,3 +1,8 @@
-# Order Of Magi
 
-A repository for the Elder Scrolls V : Skyrim mod Order of Magi
+A repository for the following Elder Scrolls V : Skyrim mods
+
+1. Winter's Grasp
+2. Snowgaard
+
+
+
