@@ -11,8 +11,7 @@ WHALE-SNAKE-WHALE (from left to right). Stand next to the tower, pull the chain,
 ### Tomb High
 
 <b>Hint:</b>
-The pressure plates in front of the static puzzle keys move puzzle keys in the lower level. You can see these puzzle keys if you peek to the eastern end of the tomb through the shaft door.  
-The static puzzle keys show the correct combination. 
+The pressure plates in front of the static puzzle keys move puzzle keys in the lower level. You can see these puzzle keys if you peek to the eastern end of the tomb through the shaft door. The static puzzle keys show the correct combination. 
 
 ### Tomb Low
 
