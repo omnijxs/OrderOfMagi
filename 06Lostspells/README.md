@@ -15,3 +15,4 @@ Open thoughts:
 * Dread’s reanimate occasionally misfires
 * Dread spell visuals could be better
 * Dread could have a sword/staff?
+* Terror casting cost shows incorrectly per / sec
