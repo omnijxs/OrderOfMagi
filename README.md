@@ -6,3 +6,4 @@ A repository for the following Elder Scrolls V : Skyrim mods
 3. Frostfaarn
 4. Storm Isle
 5. Lost Spells: Deathchantress
+6. Vrage's Watch
